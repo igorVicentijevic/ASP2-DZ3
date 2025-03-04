@@ -1,1 +1,1 @@
-Implementacija hes tabele i adaptivne hes tabele
+Implementation of a hash table and an adaptive hash table.
